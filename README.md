@@ -10,5 +10,5 @@
 <br>
 <h3>Инструменты и языки программирования</h3>
 <br>
-<p><img alt="Static Badge" src="https://img.shields.io/badge/Charles-FFBF00"><img alt="Static Badge" src="https://img.shields.io/badge/Charles-7A005C"><img alt="Static Badge" src="https://img.shields.io/badge/Charles-006561"></p>
+<p class="thumb"><img alt="Static Badge" src="https://img.shields.io/badge/Charles-FFBF00"><img alt="Static Badge" src="https://img.shields.io/badge/Charles-7A005C"><img alt="Static Badge" src="https://img.shields.io/badge/Charles-006561"></p>
 
