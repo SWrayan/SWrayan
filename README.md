@@ -1,3 +1,4 @@
 
-<p class="fig"><img src="https://i.ibb.co/x1R3mDz/download-1.gif" 
-   width="600" height="180" alt="Фотография"></p>
+![](https://i.ibb.co/hRD0Xzj/download-3.gif)
+  
+![](https://i.ibb.co/WFL8m0C/download-5.gif)
