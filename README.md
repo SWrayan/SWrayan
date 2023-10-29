@@ -8,6 +8,7 @@
 Я знаком с работой в консоли и имею опыт подключения и работы с базами данных, а также составления SQL-запросов. Умею анализировать логи и создавать несложные автотесты на JavaScript.
 <br>
 <br>
-<h2>Инструменты и языки программирования</h2>
+<h3>Инструменты и языки программирования</h3>
+<br>
 <img alt="Static Badge" src="https://img.shields.io/badge/Charles-FFBF00"><img alt="Static Badge" src="https://img.shields.io/badge/Charles-7A005C"><img alt="Static Badge" src="https://img.shields.io/badge/Charles-006561">
 
