@@ -1,6 +1,8 @@
 
+<p style="text-align: center;">
 <img src="https://i.ibb.co/hRD0Xzj/download-3.gif" />
 <img src="https://i.ibb.co/WFL8m0C/download-5.gif" />
+</p>
 <br>
 <br>Привет! Меня зовут Виталий Калашников.
 <br> 
@@ -18,7 +20,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 <br>
-<h3>Связаться со мной:</h3>
+<h3>Связаться со мной</h3>
 
 <a href="https://t.me/Damn_nuance">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <a href="https://join.skype.com/invite/pzeEC6hb97oz">![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
