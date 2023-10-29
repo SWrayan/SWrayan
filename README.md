@@ -1,8 +1,8 @@
 
 <p style="text-align: center;">
-<img src="https://i.ibb.co/L8pM61J/download-6.gif" /></p>
+<img src="https://i.ibb.co/XFpV3LK/download-7.gif" /></p>
 <p style="text-align: center;">
-<img src="https://i.ibb.co/WFL8m0C/download-5.gif" />
+<img src="https://i.ibb.co/jvqXBWW/download-8.gif" />
 </p>
 
 <br>
